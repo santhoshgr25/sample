@@ -1,0 +1,40 @@
+------- cpptestscan v.9.5.6.26 (cpptesttrace) -------
+working_dir=/home/santhosh/Desktop/demo/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/ATM.o
+arg=-c
+arg=ATM.cxx
+------- cpptestscan v.9.5.6.26 (cpptesttrace) -------
+working_dir=/home/santhosh/Desktop/demo/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/Bank.o
+arg=-c
+arg=Bank.cxx
+------- cpptestscan v.9.5.6.26 (cpptesttrace) -------
+working_dir=/home/santhosh/Desktop/demo/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/BaseDisplay.o
+arg=-c
+arg=BaseDisplay.cxx
+------- cpptestscan v.9.5.6.26 (cpptesttrace) -------
+working_dir=/home/santhosh/Desktop/demo/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/Account.o
+arg=-c
+arg=Account.cxx
